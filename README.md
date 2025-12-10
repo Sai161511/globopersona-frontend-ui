@@ -28,12 +28,6 @@ The project focuses on:
 - Email list upload and preview screens
 - AI email preview UI design
 - Clean and modern SaaS-style interface
-
----
-
-## 🚀 Live Demo
-🔗 https://globopersona-frontend-ui-vercel.vercel.app
-
 ---
 
 ## 📂 GitHub Repository
